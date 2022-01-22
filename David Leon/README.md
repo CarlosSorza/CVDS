@@ -16,6 +16,8 @@ public int suma(int num_1, int num_2){
 	return num_1+num_2;
 }
 ```
+## **Moodle**\
+-[](https://campusvirtual.escuelaing.edu.co/moodle/?redirect=0) \
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 
