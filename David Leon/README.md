@@ -16,6 +16,6 @@ public int suma(int num_1, int num_2){
 	return num_1+num_2;
 }
 ```
-![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px' height='100px'}
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='20px' height='20px'}
 
 
